@@ -1,0 +1,8 @@
+{
+    "host": "10.108.0.3",
+    "user": "nodebig",
+    "password": "f*HWra%BykiUM97nG5e",
+    "connectionLimit": 10,
+    "multipleStatements": false,
+    "charset": "utf8mb4"
+}
